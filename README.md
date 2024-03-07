@@ -10,10 +10,10 @@
   
   1. Part A: Complete
 
-  2. Part B: Incomplete
+  2. Part B: Complete
 
-  3. Part C: Incomplete
+  3. Part C: Complete
 
-  4. Part D: Incomplete
+  4. Part D: Complete
 
 [Main GitHub repo](https://github.com/piratheepankumanan/my-repo)
